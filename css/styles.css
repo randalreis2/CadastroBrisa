@@ -290,7 +290,7 @@ kbd {
   font-size: 0.875em;
   color: #fff;
   background-color: #212529;
-  border-radius: 0.2rem;
+  border-radius: 0.5rem;
 }
 kbd kbd {
   padding: 0;
@@ -1592,6 +1592,7 @@ progress {
   }
 
   .col-xl-3 {
+    padding: 30px;
     flex: 0 0 auto;
     width: 25%;
   }
@@ -11321,7 +11322,7 @@ html {
 aside,
 section {
   padding-top: 2rem;
-  padding-bottom: 5rem;
+  padding-bottom: 2rem;
 }
 
 .app-badge {
